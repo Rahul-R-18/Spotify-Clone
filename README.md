@@ -8,4 +8,4 @@ This is a React web app representing a Spotify Wrapped for each artist. Users ca
 
 [Figma Wireframe](https://www.figma.com/file/IPTuTRbVZBPpeOvozbEeGc/Hack4Impact-Spring-2024-Technical-Assessment?type=design&node-id=0-1&mode=design&t=mr1zLFDeCRUeY1WC-0)
 
-[Student Example](https://youtu.be/t9GzCH4OKYI)
+[Example Submission](https://youtu.be/t9GzCH4OKYI)
