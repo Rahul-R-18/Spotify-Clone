@@ -54,20 +54,21 @@ img {
 }
 
 ol {
-    padding-left: 0;
+    padding-left: 1;
     text-align: left;
     
 }
 
 li {
     margin: 5px 0;
-    margin-top: 20px;
+    margin-top: 25px;
     font-size: 18px
 }
 
 
 .header {
-  text-align:center
+  text-align:center;
+  margin-top: 0px;
 }
 
 
