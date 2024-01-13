@@ -1,1 +1,38 @@
 /* Add css styles for spotify.jsx in this file */
+
+.spotify {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+button {
+  width: 40px; 
+  height: 40px; 
+  background-color: red;
+  cursor: pointer;
+  padding: 0;
+  border: none; 
+  clip-path: polygon(50% 0%, 0% 100%, 100% 100%); /* Creating a triangle using clip-path */
+}
+
+
+.left-triangle {
+  margin: 0 auto;
+  transform: rotate(270deg); /*rotating upper isosceles triangle by 270 deg clockwise makes it point left! */
+}
+
+.right-triangle {
+  margin: 0 auto;
+  transform: rotate(90deg); /*doing similar thing to make this one point right */
+}
+
+
+
+
+
+
+
+  

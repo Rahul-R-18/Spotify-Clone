@@ -1,0 +1,67 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%; 
+    background-color: yellow; /* Setting the background color to yellow */
+}
+
+.artistPage {
+    color: red; /* red text */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh; /* Using vh to push the boxes slightly down */
+}
+
+.infoBox, .songsBox {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px;
+    height: 300px;
+    box-sizing: border-box; 
+   
+}
+
+.infoBox {
+    width: 200px; 
+    text-align: center
+}
+.songsBox {
+    width: 400px; 
+}
+
+img {
+    width: 120px; 
+    height: 120px; 
+    object-fit: cover;
+    margin-top: 10px;
+    
+}
+
+.minutes, .num {
+    display: block; /* "minutes listened" and the actual number need to be on separate lines so using block, and not span */
+    margin-top: 10px; 
+}
+
+ol {
+    padding-left: 0;
+    text-align: left;
+    
+}
+
+li {
+    margin: 5px 0;
+    margin-top: 20px;
+    font-size: 18px
+}
+
+
+.header {
+  text-align:center
+}
+
+
+
+  
