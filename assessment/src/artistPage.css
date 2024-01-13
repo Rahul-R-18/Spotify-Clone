@@ -45,6 +45,14 @@ img {
     margin-top: 10px; 
 }
 
+.minutes {
+    font-size: 18px;
+}
+
+.num {
+    font-size: 20px;
+}
+
 ol {
     padding-left: 0;
     text-align: left;
